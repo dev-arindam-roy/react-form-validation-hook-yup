@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-form-validation-hook-yup/static/css/main.139f5aab.css",
+    "main.js": "/react-form-validation-hook-yup/static/js/main.3585d080.js",
+    "static/js/453.881294cb.chunk.js": "/react-form-validation-hook-yup/static/js/453.881294cb.chunk.js",
+    "index.html": "/react-form-validation-hook-yup/index.html",
+    "main.139f5aab.css.map": "/react-form-validation-hook-yup/static/css/main.139f5aab.css.map",
+    "main.3585d080.js.map": "/react-form-validation-hook-yup/static/js/main.3585d080.js.map",
+    "453.881294cb.chunk.js.map": "/react-form-validation-hook-yup/static/js/453.881294cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.139f5aab.css",
+    "static/js/main.3585d080.js"
+  ]
+}
