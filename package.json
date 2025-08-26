@@ -2,7 +2,7 @@
   "name": "form-validation",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gitname.github.io/react-form-validation-hook",
+  "homepage": "https://gitname.github.io/react-form-validation-hook-yup",
   "dependencies": {
     "@hookform/resolvers": "^5.2.1",
     "@reduxjs/toolkit": "^2.8.2",
